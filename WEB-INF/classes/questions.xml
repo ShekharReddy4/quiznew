@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<quiz>
+    <questions>    
+      <question>
+        <quizquestion>MongoDB is a </quizquestion>
+        <answer1>Relational Database</answer1>
+        <answer2>Object Relational Database</answer2>
+        <answer3>Graph Database</answer3>
+        <answer4>Document Database</answer4>
+        <correct>3</correct>
+      </question>
+
+       <question>
+        <quizquestion>Capital city of India  </quizquestion>
+        <answer1>Relational Database</answer1>
+        <answer2>Object Relational Database</answer2>
+        <answer3>Graph Database</answer3>
+        <answer4>Document Database</answer4>
+        <correct>2</correct>
+      </question>
+
+      <question>
+        <quizquestion> Capital of Norway</quizquestion>
+        <answer1>Relational Database</answer1>
+        <answer2>Object Relational Database</answer2>
+        <answer3>Graph Database</answer3>
+        <answer4>Document Database</answer4>
+        <correct>1</correct>
+      </question>
+	  <question>
+        <quizquestion>national animal of India</quizquestion>
+        <answer1>Relational Database</answer1>
+        <answer2>Object Relational Database</answer2>
+        <answer3>Graph Database</answer3>
+        <answer4>Document Database</answer4>
+        <correct>1</correct>
+      </question>
+</questions>
+</quiz>

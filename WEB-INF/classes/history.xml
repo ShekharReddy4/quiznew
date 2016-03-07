@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<quiz>
+    <questions>    
+      <question>
+        <quizquestion>Who translated Bhagavad Gita to english?</quizquestion>
+        <answer1>William Jones</answer1>
+        <answer2>Charles Wilkins</answer2>
+        <answer3>Alexander Cunningham</answer3>
+        <answer4>John Marshall</answer4>
+        <correct>2</correct>
+      </question>
+       <question>
+        <quizquestion>The Hundred Years War was fought between what two countries?</quizquestion>
+        <answer1>Italy and Carthage</answer1>
+        <answer2>England and Germany</answer2>
+        <answer3>France and England</answer3>
+        <answer4>Spain and France</answer4>
+        <correct>3</correct>
+      </question>
+      <question>
+        <quizquestion>What famous rifle is known in America as 'The Gun that Won the West'? </quizquestion>
+        <answer1>Henry Repeating Rifle</answer1>
+        <answer2>Colt Peacemaker</answer2>
+        <answer3>Winchester Model 1873</answer3>
+        <answer4>Remington Army Revolver</answer4>
+        <correct>3</correct>
+      </question>
+	  <question>
+        <quizquestion>Where did British first open their factories in Eastern part of India?</quizquestion>
+        <answer1>Assam</answer1>
+        <answer2>Orissa</answer2>
+        <answer3>Bihar</answer3>
+        <answer4>Sikkim</answer4>
+        <correct>2</correct>
+      </question>
+</questions>
+</quiz>

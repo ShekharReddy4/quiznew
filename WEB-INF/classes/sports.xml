@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<quiz>
+    <questions>    
+      <question>
+        <quizquestion>Who is the first Indian woman to win an Asian Games gold in 400m run?</quizquestion>
+        <answer1>M.L.Valsamma</answer1>
+        <answer2>P.T.Usha</answer2>
+        <answer3>Kamaljit Sandhu</answer3>
+        <answer4>K.Malleshwari</answer4>
+        <correct>3</correct>
+      </question>
+       <question>
+        <quizquestion>Who was the first Indian to win the World Amateur Billiards title?</quizquestion>
+        <answer1>Geet Sethi</answer1>
+        <answer2>Wilson Jones</answer2>
+        <answer3>Michael Ferreira</answer3>
+        <answer4>Manoj Kothari</answer4>
+        <correct>2</correct>
+      </question>
+      <question>
+        <quizquestion>Which county did Ravi Shastri play for?</quizquestion>
+        <answer1>Glamorgan</answer1>
+        <answer2>Leicestershire</answer2>
+        <answer3>Gloucestershire</answer3>
+        <answer4>Lancashire</answer4>
+        <correct>1</correct>
+      </question>
+</questions>
+</quiz>

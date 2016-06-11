@@ -15,4 +15,4 @@ running catalina works fine
 
 NOTE: The url is http://localhost:9999/quiznew .
 
-A demo Video for the project ius availaible here : https://www.youtube.com/watch?v=IgmSe_PKEYw
+A demo Video for the project is availaible here : https://www.youtube.com/watch?v=IgmSe_PKEYw
